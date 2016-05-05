@@ -15,7 +15,7 @@ div.goof {
 }
 
 div.goof img {
-  display:block;
+  display: none;
   margin: 0 auto;
   width: 60%;
 }
