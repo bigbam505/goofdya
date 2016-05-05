@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 14vw;
+  text-align:center;
+  margin: 2% auto;
+}
+
+div.goof {
+  margin: 0 auto;
+  width: 60%;
+}
+
+div.goof img {
+  display:block;
+  margin: 0 auto;
+  width: 60%;
+}
